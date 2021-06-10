@@ -1,4 +1,5 @@
-# flutter_statusbar_manager
+# flutter_statusbar_manager  
+#这个库， 完全根据https://github.com/FooStudio/flutter_statusbar_manager 使用方式，跟原作者一样 支持空安全
 
 Now compatible with AndroidX thanks to https://github.com/lorenzOliveto
 
